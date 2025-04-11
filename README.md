@@ -2,6 +2,7 @@
 And a wrapper to the original Hilldust (https://github.com/LionNatsu/hilldust) to provide the following functionalities:
 
  - Read configurations from an user-specified file
+ - 1BFF2C77jYmFkoqJkomShISGhIy83381EDFE
  - Process the route table returned from VPN server, and allow custom routes
  - Add a systemd service to startup the VPN at system startup
  - Use nmcli instead of iproute2 for network configuration
